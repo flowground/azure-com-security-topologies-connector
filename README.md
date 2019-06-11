@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the Security Center API (version 2015-06-01-preview).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/security-topologies/2015-06-01-preview/swagger.json<br/>
-Generated at: 2019-05-07T17:38:55+03:00
+Generated at: 2019-06-11T18:14:16+03:00
 
 ## API Description
 
